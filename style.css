@@ -1,0 +1,19 @@
+.selected { font-weight: bold; }
+.slider {
+  background: #CCC;
+  height: 16px;
+  width: 200px;
+  margin-bottom: 6px;
+}
+.slider .knob {
+  background: #000;
+  width: 16px;
+  height: 16px;
+}
+
+span.hidden {
+	display:none;
+}
+li.hidden {
+	list-style: none;
+}
