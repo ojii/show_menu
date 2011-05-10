@@ -119,7 +119,7 @@ var ShowMenu = new Class({
     initialize: function(options){
         this.setOptions(options);
         this.sliders = {};
-        this.fromlevel = 5;
+        this.fromlevel = 0;
         this.tolevel = 5;
         this.extra_active = 5;
         this.extra_inactive = 5;
